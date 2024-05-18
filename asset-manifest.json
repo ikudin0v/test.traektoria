@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test.traektoria/static/css/main.d3ac8590.css",
+    "main.js": "/test.traektoria/static/js/main.83a08b09.js",
+    "index.html": "/test.traektoria/index.html",
+    "main.d3ac8590.css.map": "/test.traektoria/static/css/main.d3ac8590.css.map",
+    "main.83a08b09.js.map": "/test.traektoria/static/js/main.83a08b09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3ac8590.css",
+    "static/js/main.83a08b09.js"
+  ]
+}
